@@ -1,0 +1,10 @@
+{
+  "name": "wa-bot-termux",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.6.0",
+    "@hapi/boom": "^10.0.1"
+  }
+}
